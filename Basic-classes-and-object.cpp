@@ -19,3 +19,5 @@ int main() {
     cout << "Volume = " << c.volume() << endl;
     return 0;
 }
+Output:
+Volume=245
