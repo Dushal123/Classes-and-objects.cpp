@@ -15,3 +15,6 @@ int main() {
     cout << "Volume of the cube is: " << c.volume() << endl;
     return 0;
 }
+
+Output:
+Volume of the cube is:120
