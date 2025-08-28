@@ -1,0 +1,17 @@
+//Dushal kella
+//24070123053
+#include <iostream>
+using namespace std;
+
+class Cube {
+    int h, w, l;
+public:
+    Cube(int x, int y, int z) { h = x; w = y; l = z; }
+    int volume() { return h * w * l; }
+};
+
+int main() {
+    Cube c(5, 7, 7);
+    cout << "Volume = " << c.volume() << endl;
+    return 0;
+}
