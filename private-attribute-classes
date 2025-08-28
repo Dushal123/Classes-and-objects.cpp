@@ -15,3 +15,5 @@ int main() {
     cout << "Volume = " << c.volume() << endl;
     return 0;
 }
+Output:
+Volume of cuboid : 245
