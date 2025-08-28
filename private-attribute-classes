@@ -16,4 +16,4 @@ int main() {
     return 0;
 }
 Output:
-Volume of cuboid : 245
+Volume of cube: 245
