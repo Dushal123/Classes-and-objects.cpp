@@ -21,3 +21,6 @@ int main() {
     c1.disp();
     return 0;
 }
+Output:
+Enter height, width, length: 2 3 4
+Volume of cuboid: 24
